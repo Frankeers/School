@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(226, 13, 13);
+    font-size: medium;
+
+}
+
+img{
+    border-width: 5px;
+    border-style: groove;
+    resize: both;
+    height: 500px;
+    width: 500px;
+
+
+}
